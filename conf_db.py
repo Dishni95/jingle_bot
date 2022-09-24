@@ -1,6 +1,6 @@
 import sqlite3
 
-# basic db setup and edit comands 
+# basic db setup and edit commands 
 
 '''
 my_conn = sqlite3.connect('dictionary.db')
